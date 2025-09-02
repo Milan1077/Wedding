@@ -120,7 +120,7 @@ export default function WeddingInviteReplica() {
     <div className="bg-[#efe7df] text-[#2a2a2a] selection:bg-black selection:text-white">
       {/* HERO */}
       <SplitHero
-        imageUrl="/img/img1.JPG"
+        imageUrl="./img/img1.JPG"
         titleLeft="Dinesh"
         ampersand="&"
         titleRight="Melina"
@@ -183,7 +183,7 @@ export default function WeddingInviteReplica() {
           <img
             alt="couple"
             className="w-full rounded-xl shadow-md"
-            src="/img/img2.JPG"
+            src="./img/img2.JPG"
           />
         </Reveal>
       </section>
@@ -212,7 +212,7 @@ export default function WeddingInviteReplica() {
           <img
             alt="dance"
             className="w-full rounded-xl shadow-md"
-            src="/img/img3.JPG"
+            src="./img/img3.JPG"
           />
         </Reveal>
       </section>
@@ -240,7 +240,7 @@ export default function WeddingInviteReplica() {
           <img
             alt="stairs"
             className="w-full rounded-xl shadow-md"
-            src="/img/img4.JPG"
+            src="./img/img4.JPG"
           />
         </Reveal>
       </section>
